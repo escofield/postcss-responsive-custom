@@ -1,0 +1,27 @@
+{
+  "name": "@escofieldpublic/postcss-responsive-custom",
+  "version": "0.2.0",
+  "description": "PostCSS plugin that adds responsive magic to any property",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "typography"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/escofield/postcss-responsive-custom.git"
+  },
+  "author": "escofield",
+  "bugs": {
+    "url": "https://github.com/escofield/postcss-responsive-custom.git/issues"
+  },
+  "homepage": "https://github.com/escofield/postcss-responsive-custom.git",
+  "dependencies": {
+    "postcss": "^6.0.6"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1"
+  }
+}
