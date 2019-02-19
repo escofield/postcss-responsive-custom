@@ -17,6 +17,9 @@ let size_types = {
     40: {min: '1.7rem', max: '2rem'},
     50: {min: '1.5rem', max: '1.7rem'},
     60: {min: '1.3rem', max: '1.5rem'},
+    70: {min: '1.22rem', max: '1.35rem'},
+    80: {min: '1.15rem', max: '1.2rem'},
+    90: {min: '1.1rem', max: '1.1rem'},
   },
   // min modular scale minor second
   // max >=40 modular scale minor second
@@ -28,6 +31,9 @@ let size_types = {
     40: {min: '1.138rem', max: '1.383rem'},
     50: {min: '1.067rem', max: '1.296rem'},
     60: {min: '1rem', max: '1.215rem'},
+    70: {min: '0.937rem', max: '1.12rem'},
+    80: {min: '0.878rem', max: '1.05rem'},
+    90: {min: '0.823rem', max: '1rem'},
     
   },
   content: {
